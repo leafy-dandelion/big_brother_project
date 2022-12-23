@@ -1,5 +1,0 @@
-train: ../cv_p_data/train/images
-val: ../cv_p_data/val/images
-
-nc: 23
-names: ['person', 'cat', 'cow', 'bird', 'dog', 'horse', 'sheep', 'aeroplane', 'bicycle', 'boat', 'bus', 'car', 'motorbike', 'train', 'bottle', 'chair', 'dining table', 'potted plant', 'sofa', 'tv/monitor', 'tvmonitor', 'diningtable', 'pottedplant']
